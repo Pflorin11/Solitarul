@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1607600638 source:c:\users\andrei\desktop\solitarul-sigil\main.cpp
+	<iostream>
+	<math.h>
+	<sl.h>
+
+1478944320 c:\users\andrei\desktop\solitarul-sigil\include\sl.h
+
+1610306086 source:c:\users\andrei\desktop\pip-temp\solitarul-sigil\main.cpp
+	<iostream>
+	<math.h>
+	<sl.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<cstring>
+
+1478944320 c:\users\andrei\desktop\pip-temp\solitarul-sigil\include\sl.h
+
+1610299109 source:c:\users\florin\desktop\proiect ip\solitarul-sigil\main.cpp
+	<iostream>
+	<math.h>
+	<sl.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<cstring>
+
+1478944320 c:\users\florin\desktop\proiect ip\solitarul-sigil\include\sl.h
+

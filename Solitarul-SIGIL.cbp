@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Solitarul-SIGIL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Solitarul-SIGIL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="lib/libsigil.dll.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Solitarul-SIGIL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="lib/libsigil.dll.a" />
+		</Linker>
+		<Unit filename="files/11x11_Corner.txt" />
+		<Unit filename="files/11x11_Cross.txt" />
+		<Unit filename="files/13x13_Corner.txt" />
+		<Unit filename="files/13x13_Cross.txt" />
+		<Unit filename="files/7x7_Corner.txt" />
+		<Unit filename="files/7x7_Cross.txt" />
+		<Unit filename="files/9x9_Corner.txt" />
+		<Unit filename="files/9x9_Cross.txt" />
+		<Unit filename="files/Button.bmp" />
+		<Unit filename="files/Corner_Cut_Board.txt" />
+		<Unit filename="files/Cross_Show_Board.txt" />
+		<Unit filename="files/Options_File.txt" />
+		<Unit filename="files/Pause_Button.bmp" />
+		<Unit filename="files/Random_Move_Button.bmp" />
+		<Unit filename="files/Restart_Button.bmp" />
+		<Unit filename="files/Short_Button.bmp" />
+		<Unit filename="files/Undo_Button.bmp" />
+		<Unit filename="files/Window_UI.txt" />
+		<Unit filename="files/_temp.txt" />
+		<Unit filename="files/font.TTF" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

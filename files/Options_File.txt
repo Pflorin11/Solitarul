@@ -1,0 +1,11 @@
+<Window_Width>1280</Window_Width>
+<Window_Height>720</Window_Height>
+<RatioX>16</RatioX>
+<RatioY>9</RatioY>
+<Fullscreen>0</Fullscreen>
+<English>1</English>
+<Piece_Color>Red</Piece_Color>
+
+
+
+

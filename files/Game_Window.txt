@@ -1,0 +1,16 @@
+<Code>1</Code>
+<Texture>files/Pause_Button.bmp</Texture>
+<Alignment>TL</Alignment>
+<PositionX>1</PositionX>
+<PositionY>-1</PositionY>
+<DimensionX>1</DimensionX>
+<DimensionY>1</DimensionY>
+<End>
+<Code>2</Code>
+<Texture>files/Undo_Button.bmp</Texture>
+<Alignment>DR</Alignment>
+<PositionX>-1</PositionX>
+<PositionY>1</PositionY>
+<DimensionX>1</DimensionX>
+<DimensionY>1</DimensionY>
+<End>

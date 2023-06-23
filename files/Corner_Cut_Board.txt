@@ -1,0 +1,14 @@
+<SizeX>7</SizeX>
+<SizeY>7</SizeY>
+<Margin>0</Margin>
+<StepSizeX>1</StepSizeX>
+<StepSizeY>1</StepSizeY>
+<StepNo>2</StepNo>
+<StepDec>1</StepDec>
+<Alignment>C</Alignment>
+<DimensionX>9</DimensionX>
+<DimensionY>7</DimensionY>
+<PosX>-1</PosX>
+<PosY>0<PosY>
+<Function_Tag>Game_Board</Function_Tag>
+<Window_UI_Tag>Game</Window_UI_Tag>
